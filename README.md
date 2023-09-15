@@ -24,5 +24,6 @@ Managed an Excel project for bike sales optimization, incorporating advanced dat
 •	Design Enhancement: Improved the overall design of reports and charts for a polished look.
 
 •	Slicer Insertion: Inserted slicers to facilitate interactive data filtering and analysis.
+
 This project demonstrates proficiency in Excel data management, analysis, and presentation, showcasing strong analytical and data visualization skills.
 
